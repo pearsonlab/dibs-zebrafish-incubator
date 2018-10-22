@@ -28,7 +28,7 @@ p.ref {
 }
 
 video {
-    object-fit: container;
+    object-fit: cover;
     transform: rotate(90deg);
 }
 
