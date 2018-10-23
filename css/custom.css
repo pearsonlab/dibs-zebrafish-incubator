@@ -36,6 +36,11 @@ video {
     transform: rotate(270deg);
 }
 
+.noflip {
+    object-fit: container;
+    transform: rotate(0deg);
+}
+
 .reveal slides > section {
     padding: 0;
 }
