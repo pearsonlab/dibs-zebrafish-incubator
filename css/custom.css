@@ -32,3 +32,10 @@ video {
     transform: rotate(90deg);
 }
 
+.flip {
+    transform: rotate(270deg);
+}
+
+.reveal slides > section {
+    padding: 0;
+}
